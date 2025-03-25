@@ -37,10 +37,10 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorUtil.cs" />
-     <Compile Include="Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorNode.cs" />
-     <Compile Include="Assets/DialogueEditor/Assets/Scripts/UI/Editor/ConversationManagerEditor.cs" />
-     <Compile Include="Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorWindow.cs" />
      <Compile Include="Assets/DialogueEditor/Assets/Scripts/Editor/NPCConversationEditor.cs" />
+     <Compile Include="Assets/DialogueEditor/Assets/Scripts/UI/Editor/ConversationManagerEditor.cs" />
+     <Compile Include="Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorNode.cs" />
+     <Compile Include="Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorWindow.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.30f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
