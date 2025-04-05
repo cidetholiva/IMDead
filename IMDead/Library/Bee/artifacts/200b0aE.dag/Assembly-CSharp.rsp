@@ -361,6 +361,7 @@
 "Assets/DialogueEditor/Example/ExampleInputManager.cs"
 "Assets/Scripts/CharacterMovement.cs"
 "Assets/Scripts/ConversationStarter.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/MouseLook.cs"
 "Assets/Scripts/POV.cs"
 "Assets/Scripts/ThirdPersonFollow.cs"
