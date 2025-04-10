@@ -4,5 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: cf0d16934fba246bfbd6abd4d73865de
+  - enabled: 1
+    path: Assets/I.M.Dead..unity
+    guid: c7dabfd4c634148faa00538adb77ddc1
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d590bbf6859eb4e16a9c69ccf6989f7b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 61fbb16635b234901a268e08a5ae3d47, type: 2}
